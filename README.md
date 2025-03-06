@@ -1,5 +1,8 @@
 this virtual assistant with hindi language not english  but you can change prompt/message (write in english lang)
 
+live;  https://praveenkr398.github.io/AiVirtualAssistant/
+
+
 ask: 
 
 hello /
