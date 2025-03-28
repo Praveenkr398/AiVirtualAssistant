@@ -7,8 +7,8 @@
 
 ---
 
-🔗 **Live Demo:** [Try it here](https://praveenkr398.github.io/AiVirtualAssistant/)  
-💻 **GitHub Repo:** [Explore the Code](https://github.com/Praveenkr398/AiVirtualAssistant)  
+## 🔗 **Live Demo:** [Try it here](https://praveenkr398.github.io/AiVirtualAssistant/)  
+## 💻 **GitHub Repo:** [Explore the Code](https://github.com/Praveenkr398/AiVirtualAssistant)  
 
 ## 🚀 About the Project  
 This **AI Virtual Assistant** is a smart web-based assistant built using **HTML, CSS, and JavaScript**, designed to understand and respond to Hindi queries. It can perform various tasks like fetching **current time and date**, opening popular apps, and even **searching Google** for random questions. With **natural language processing** for Hindi interactions, this project brings **a localized AI assistant experience** to users.  
