@@ -38,7 +38,7 @@ recognition.onresult = (event) => {
   const currentIndex = event.resultIndex;
   const transcript = event.results[currentIndex][0].transcript;
   content.innerText = transcript;
-  speak(transcript);
+ 
   takeCommmand(transcript.toLowerCase());
 };
 
@@ -122,30 +122,6 @@ function takeCommmand(message) {
 window.addEventListener("load", () => {
   wiseMe(); // wise on load
 
-    setTimeout(() => {
-      speak("ऐसे क्या देख रहे हो बॉस..मैं चीकू हूं चीकू......");
-      // speak("how are you?");
-    }, 1000);
-
-    setTimeout(() => {
-      speak("कुछ पूछना है तो पूछो वरना मैं तो चली");
-    }, 10000);
-
-    setTimeout(() => {
-     setTimeout(() => {
-       speak("1");
-     }, 1000);
-     setTimeout(() => {
-       speak("2");
-     }, 2000);
-     setTimeout(() => {
-       speak("3");
-       speak("bye bye");
-     }, 3000);
-     setTimeout(() => {
-       container.style.display = "none"
-     }, 10000);
-    }, 10000);
 });
 
 // // findOUt: if same propt comes?
